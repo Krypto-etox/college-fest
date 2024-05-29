@@ -89,4 +89,3 @@ We hope you enjoy our college fest website! 🎊
 
 ---
 
-Feel free to customize the contact section and other details as per your specific needs.
